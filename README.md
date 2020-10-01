@@ -15,6 +15,8 @@ For more information, please see the
 Sample implementations are minimal implementations to demonstrate 
 functionality.
 
+**Note that these services might not work any longer or can contain issues, so do not run these in production!**
+
 * Telnet: Accepts 3 passwords and then aborts the connection.
 * Conpot: Integration with [Conpot](https://github.com/mushorg/conpot), an 
 industrial (SCADA) honeypot.
